@@ -1,0 +1,25 @@
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.6;
+}
+.xnxx {
+  background-color: white;
+}
+.vlxx {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-products__order {
+  display: flex;
+  flex-direction: column;
+}
+.carthaveproduct {
+  width: 191px;
+  height: 191px;
+}
+.product-ordered_image {
+  width: 86px;
+}
